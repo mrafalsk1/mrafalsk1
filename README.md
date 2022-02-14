@@ -9,6 +9,6 @@ Currently working on [Nuvoni](https://www.linkedin.com/company/nuvonisoftwares/)
 
 ## Stacks that I Know
 
-**Front-end:** React, Redux, Vue
+**Front-end:** React, Redux, Vue, React Native
 
 **Back-end:** Node, Express
