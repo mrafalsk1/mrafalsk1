@@ -11,3 +11,5 @@ Hi guys, my name is Matheus Rafalski and I am a back-end developer searching evo
 **Front-end:** React, Redux, Vue, React Native
 
 **Back-end:** Node, Express
+
+**Studying:** Python for machine learning, pandas and numpy
