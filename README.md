@@ -8,8 +8,10 @@ Hi guys, my name is Matheus Rafalski and I am a back-end developer searching evo
 
 ## Stacks that I Know
 
-**Front-end:** React, Redux, Vue, React Native
+**Front-end:** React, Vue
 
-**Back-end:** Node, Express
+**Mobile:** React Native
+
+**Back-end:** Node, Python
 
 **Studying:** Python for machine learning, pandas and numpy and making dashboards with Power BI and Datastudio
