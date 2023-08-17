@@ -1,7 +1,7 @@
 
 ## 🚀 About me 
 
-Hi guys, my name is Matheus Rafalski and I am a back-end developer searching evolution.
+Hi guys, my name is Matheus Rafalski i worked mainly with backend developming with Node and React in frontend, but currently i am trying to get into the Data Science Area for accomplish this i am studiyng Python and other topics about Data Science
 
 ## :hammer_and_wrench: Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrafalsk1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
