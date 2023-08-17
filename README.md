@@ -12,4 +12,4 @@ Hi guys, my name is Matheus Rafalski and I am a back-end developer searching evo
 
 **Back-end:** Node, Express
 
-**Studying:** Python for machine learning, pandas and numpy
+**Studying:** Python for machine learning, pandas and numpy and making dashboards with Power BI and Datastudio
